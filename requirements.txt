@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
@@ -7,3 +8,6 @@ scikit-learn
 plotly
 openpyxl
 matplotlib
+=======
+
+>>>>>>> 5cd82e5a0a09ef8f9eb7f963a57ca3f1adf40ab6

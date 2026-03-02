@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app.py
 import streamlit as st
 import pandas as pd
@@ -76,3 +77,6 @@ if uploaded_file is not None:
         time_series_section(df)
 else:
     st.info("⬆️ Importez un fichier pour commencer l'analyse")
+=======
+
+>>>>>>> 5cd82e5a0a09ef8f9eb7f963a57ca3f1adf40ab6
