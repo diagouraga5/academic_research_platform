@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-streamlit
-pandas
-numpy
-scipy
-statsmodels
-scikit-learn
-plotly
-openpyxl
-matplotlib
-=======
-
->>>>>>> 5cd82e5a0a09ef8f9eb7f963a57ca3f1adf40ab6
+pandas==2.2.0
+numpy==1.26.0
+matplotlib==3.8.0
+seaborn==0.12.2
+scikit-learn==1.3.2
+streamlit==1.28.0
+openpyxl==3.1.2
+statsmodels==0.14.0
+plotly==6.1.0
